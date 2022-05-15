@@ -21,7 +21,7 @@
 ### Links
 
 - Solution URL: [Solution Link](https://github.com/iamhuraira/First_Website-)
-- Live Site URL: [Live Site ](https://huraira429.github.io/First_Website-/)
+- Live Site URL: [Live Site ](https://iamhuraira.github.io/First_Website-/)
 
 ## My process
 

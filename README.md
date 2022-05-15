@@ -44,5 +44,5 @@ This challenge helped me better understand how to use more than one image as a b
 ## Author
 
 - Frontend Mentor - [@Huraira429](https://www.frontendmentor.io/profile/Huraira429)
-- GitHub - [@Huraira429](https://github.com/Huraira429)
-- Twitter - [@i_am_huraira_](https://twitter.com/i_am_huraira_)
+- GitHub - [@iamhuraira](https://github.com/iamhuraira)
+<!-- - Twitter - [@i_am_huraira_](https://twitter.com/i_am_huraira_) -->
